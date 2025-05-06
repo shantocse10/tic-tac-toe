@@ -4,12 +4,6 @@ This is a simple Tic-Tac-Toe game built with React and Vite. The project demonst
 
 ## Features
 
-# Tic-Tac-Toe Game
-
-This is a simple Tic-Tac-Toe game built with React and Vite. The project demonstrates the use of React components, state management, and event handling to create an interactive game.
-
-## Features
-
 * Play a two-player Tic-Tac-Toe game.
 * Track game history and jump to previous moves.
 * Displays the winner or the next player.
